@@ -5,7 +5,8 @@
 ### 1. 챗봇(Hyper Clova X 모델)
    ![image](https://github.com/user-attachments/assets/4a73018d-53f4-4a8e-979c-f529bdbfc667)
   - **영상**
-    - https://github.com/user-attachments/assets/086e5ea1-1eff-48db-9207-acbf79db9af4
+
+https://github.com/user-attachments/assets/c57b2df2-358e-44aa-aba9-5d0744aa092a
 ### 2. 대화목록 불러오기
   ![image](https://github.com/user-attachments/assets/aaf2db1b-c667-4360-a7d3-21d46b75c5d2)
 ### 3. 직업추천
