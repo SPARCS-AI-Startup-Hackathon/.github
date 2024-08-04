@@ -30,3 +30,10 @@ https://github.com/user-attachments/assets/c57b2df2-358e-44aa-aba9-5d0744aa092a
 
  ## 서비스 영상
 [ Uploading KakaoTalk_Recording_20240804_202752.mp4…](https://github.com/user-attachments/assets/fc974188-cf82-4952-a04d-aa71ba147599)
+
+## Member
+| Name    |                   <center>김선재</center>                   |                    <center>정우혁</center>                    | 
+| :------ | :---------------------------------------------------------: | :-----------------------------------------------------------: |
+| Profile | <img src="https://github.com/2023WB-TeamB/Backend/assets/154852834/0fd13847-9bf0-4987-8ba0-8cbf4200ff3a" width="100" height="100">  |   <img src="https://github.com/TUK2024CD-Studymate/.github/assets/83015089/525fdd33-3323-488a-a4c3-7d51dbf9c95a" width="100" height="100">  |
+| role    |                 Frontend<br>                 |                  <center> Backend </center>                  |
+| GitHub  | <center>[@sunjae98](https://github.com/sunjae98)</center> | &nbsp;&nbsp;<center>[@mr6208](https://github.com/mr6208)</center>&nbsp;&nbsp; |
