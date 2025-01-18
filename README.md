@@ -25,7 +25,15 @@
 - 직업을 찾고싶은 고령자, 직업추천, 자기소개서 작성 등을 위한 프롬프팅 처리
 
 ## api 명세
- http://223.130.132.133:8080/swagger-ui/index.html
+
+ ### 회원
+ <img width="1448" alt="스크린샷 2025-01-18 오후 5 07 44" src="https://github.com/user-attachments/assets/5a270598-528b-4839-97e8-bef8a71eccf3" />
+
+ ### Clova 대화
+ <img width="1438" alt="스크린샷 2025-01-18 오후 5 08 34" src="https://github.com/user-attachments/assets/c4fff3c2-24bc-44d5-a988-b964b90127af" />
+
+ ### 자기소개서
+ <img width="1449" alt="스크린샷 2025-01-18 오후 5 14 02" src="https://github.com/user-attachments/assets/b18546b8-36c9-4e4b-b4cb-2de5d54155e9" />
 
  ## 서비스 영상
 [ Uploading KakaoTalk_Recording_20240804_202752.mp4…](https://github.com/user-attachments/assets/fc974188-cf82-4952-a04d-aa71ba147599)
